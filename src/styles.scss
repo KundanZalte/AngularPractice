@@ -1,0 +1,22 @@
+.card {
+    .card-header {
+      h4.card-title {
+        position: relative;
+        .btn-add {
+          position: absolute;
+          right: 10px;
+          top: -5px;
+          .mat-button-wrapper {
+            .material-icons {
+              font-size: 22px;
+              color: $white-color;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .myClass {
+    color: rgb(247, 25, 25);
+  }
